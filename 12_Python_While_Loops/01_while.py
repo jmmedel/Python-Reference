@@ -3,7 +3,7 @@
 """
 
 Author: Kagaya john 
-Tutorial 11 : While
+Tutorial 12 : While
 
 """
 

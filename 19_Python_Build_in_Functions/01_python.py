@@ -1,4 +1,9 @@
+"""
 
+Author: Kagaya john 
+Tutorial 19 :  build in Function  
+
+"""
 
 """
 Python Built in Functions
@@ -71,3 +76,245 @@ tuple()	Returns a tuple
 type()	Returns the type of an object
 vars()	Returns the __dict__ peroperty of an object
 zip()	Returns an iterator, from two or more iterators"""
+
+
+
+x = abs(-7.25)
+
+mylist = [True, True, True]
+x = all(mylist)
+
+mylist = [False, True, False]
+x = any(mylist)
+
+x = ascii("My name is Ståle")
+
+x = bin(36)
+
+x = bool(1)
+
+x = bytearray(4)
+
+x = bytes(4)
+
+def x():
+      a = 5
+
+print(callable(x))
+
+x = chr(97)
+
+x = compile('print(55)', 'test', 'eval')
+exec(x)
+
+x = complex(3, 5)
+
+class Person:
+  name = "John"
+  age = 36
+  country = "Norway"
+
+delattr(Person, 'age')
+
+x = dict(name = "John", age = 36, country = "Norway")
+
+
+class Person:
+  name = "John"
+  age = 36
+  country = "Norway"
+
+print(dir(Person))
+
+x = divmod(5, 2)
+
+
+x = ('apple', 'banana', 'cherry')
+y = enumerate(x)
+
+x = 'print(55)'
+eval(x)
+
+x = 'name = "John"\nprint(name)'
+exec(x)
+
+
+ages = [5, 12, 17, 18, 24, 32]
+
+def myFunc(x):
+  if x < 18:
+    return False
+  else:
+    return True
+
+adults = filter(myFunc, ages)
+
+for x in adults:
+  print(x)
+
+x = float(3)
+
+x = format(0.5, '%')
+
+mylist = ['apple', 'banana', 'cherry']
+x = frozenset(mylist)
+
+
+class Person:
+  name = "John"
+  age = 36
+  country = "Norway"
+
+x = getattr(Person, 'age')
+
+
+x = globals()
+print(x)
+
+
+
+
+class Person:
+  name = "John"
+  age = 36
+  country = "Norway"
+
+x = hasattr(Person, 'age')
+
+x = hex(255)
+
+x = ('apple', 'banana', 'cherry')
+y = id(x)
+
+
+print('Enter your name:')
+x = input()
+print('Hello, ' + x)
+
+x = int(3.5)
+
+x = isinstance(5, int)
+
+
+class myAge:
+      age = 36
+
+class myObj(myAge):
+  name = "John"
+  age = myAge
+
+x = issubclass(myObj, myAge)
+
+x = iter(["apple", "banana", "cherry"])
+print(next(x))
+print(next(x))
+print(next(x))
+
+mylist = ["apple", "banana", "cherry"]
+x = len(mylist)
+
+x = list(('apple', 'banana', 'cherry'))
+
+x = locals()
+print(x)
+
+
+def myfunc(n):
+      return len(n)
+
+x = map(myfunc, ('apple', 'banana', 'cherry'))
+
+x = max(5, 10)
+
+
+x = memoryview(b"Hello")
+
+print(x)
+
+#return the Unicode of the first character
+print(x[0])
+
+#return the Unicode of the second character
+print(x[1])
+
+x = min(5, 10)
+
+mylist = iter(["apple", "banana", "cherry"])
+x = next(mylist)
+print(x)
+x = next(mylist)
+print(x)
+x = next(mylist)
+print(x)
+
+x = object()
+
+x = oct(12)
+
+f = open("demofile.txt", "r")
+print(f.read())
+
+x = ord("h")
+
+x = pow(4, 3)
+
+print("Hello World")
+
+x = range(6)
+for n in x:
+  print(n)
+
+alph = ["a", "b", "c", "d"]
+ralph = reversed(alph)
+for x in ralph:
+  print(x)
+
+x = round(5.76543, 2)
+print(x)
+
+x = set(('apple', 'banana', 'cherry'))
+
+class Person:
+  name = "John"
+  age = 36
+  country = "Norway"
+
+setattr(Person, 'age', 40)
+
+
+a = ("a", "b", "c", "d", "e", "f", "g", "h")
+x = slice(2)
+print(a[x])
+
+a = ("b", "g", "a", "d", "f", "c", "h", "e")
+x = sorted(a)
+print(x)
+
+x = str(3.5)
+
+
+a = (1, 2, 3, 4, 5)
+x = sum(a)
+
+x = tuple(('apple', 'banana', 'cherry'))
+
+
+a = ('apple', 'banana', 'cherry')
+b = "Hello World"
+c = 33
+
+x = type(a)
+y = type(b)
+z = type(c)
+
+class Person:
+  name = "John"
+  age = 36
+  country = "norway"
+
+x = vars(Person)
+
+a = ("John", "Charles", "Mike")
+b = ("Jenny", "Christy", "Monica")
+
+x = zip(a, b)

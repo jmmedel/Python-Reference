@@ -1,4 +1,9 @@
+"""
 
+Author: Kagaya john 
+Tutorial 18 :  Delete File Handling  
+
+"""
 
 """
 Python Delete File
@@ -22,12 +27,13 @@ Check if file exist, then delete it:"""
 import os
 if os.path.exists("demofile.txt"):
   os.remove("demofile.txt")
-else
+else:
   print("The file does not exists")
 
 
 """
 Delete Folder
-To delete an entire folder, use the os.rmdir() method:"""
+To delete an entire folder, use the os.rmdir() method:
+"""
 os.rmdir("myfolder")
 
