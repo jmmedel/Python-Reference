@@ -2,7 +2,9 @@
 
 """
 The set() Constructor
-It is also possible to use the set() constructor to make a set. You can use the add() object method to add an item, and the remove() object method to remove an item from the set. The len() function returns the size of the set."""
+It is also possible to use the set() constructor to make a set. 
+You can use the add() object method to add an item, and the remove()
+ object method to remove an item from the set. The len() function returns the size of the set."""
 
 # Using the set() Constructor  to make a set:
 
