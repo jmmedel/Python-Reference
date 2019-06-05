@@ -1,5 +1,10 @@
 
+"""
 
+Author: Kagaya john 
+Tutorial 6 : Operators
+
+"""
 
 """
 Python Membership Operators

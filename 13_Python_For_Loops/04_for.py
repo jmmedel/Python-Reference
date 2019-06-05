@@ -1,4 +1,10 @@
 
+"""
+
+Author: Kagaya john 
+Tutorial 13 : for
+
+"""
 
 """
 Recursion

@@ -1,6 +1,13 @@
 
 
 """
+
+Author: Kagaya john 
+Tutorial 11 : While
+
+"""
+
+"""
 The break Statement
 With the break statement we can stop the loop even if the while condition is true:
 

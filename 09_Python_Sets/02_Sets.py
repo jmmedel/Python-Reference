@@ -1,6 +1,13 @@
 
 
 """
+
+Author: Kagaya john 
+Tutorial 9 : Sets
+
+"""
+
+"""
 The set() Constructor
 It is also possible to use the set() constructor to make a set. 
 You can use the add() object method to add an item, and the remove()

@@ -1,4 +1,9 @@
+"""
 
+Author: Kagaya john 
+Tutorial 6 : Operators
+
+"""
 
 """
 Python Assignment Operators

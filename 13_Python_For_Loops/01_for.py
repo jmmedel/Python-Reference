@@ -1,6 +1,13 @@
 
 
 """
+
+Author: Kagaya john 
+Tutorial 13 : for
+
+"""
+
+"""
 Python For Loops
 
 Python For Loops

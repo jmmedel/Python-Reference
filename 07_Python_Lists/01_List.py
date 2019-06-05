@@ -1,4 +1,10 @@
 
+"""
+
+Author: Kagaya john 
+Tutorial 7 : List
+
+"""
 
 """
 Python Lists

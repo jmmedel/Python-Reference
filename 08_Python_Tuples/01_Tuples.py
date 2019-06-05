@@ -1,4 +1,10 @@
 
+"""
+
+Author: Kagaya john 
+Tutorial 8 : Tuples
+
+"""
 
 """ 
 Python Tuples

@@ -1,4 +1,11 @@
 
+"""
+
+Author: Kagaya john 
+Tutorial 8 : Tuples
+
+"""
+
 
 """
 The tuple() Constructor

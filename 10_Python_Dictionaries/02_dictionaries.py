@@ -1,6 +1,13 @@
 
 
 """
+
+Author: Kagaya john 
+Tutorial 9 : Dictionaries
+
+"""
+
+"""
 The dict() Constructor
 It is also possible to use the dict() constructor to make a dictionary:"""
 

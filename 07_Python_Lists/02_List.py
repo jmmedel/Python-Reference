@@ -1,6 +1,14 @@
 
 
 
+
+"""
+
+Author: Kagaya john 
+Tutorial 7 : List
+
+"""
+
 """ 
 
 The list() Constructor

@@ -1,5 +1,11 @@
 
 
+"""
+
+Author: Kagaya john 
+Tutorial 6 : Operators
+
+"""
 
 """
  Python Bitwise Operators

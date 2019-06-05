@@ -1,6 +1,13 @@
 
 
 """
+
+Author: Kagaya john 
+Tutorial 10 : Conditions
+
+"""
+
+"""
 Elif
 The elif keyword is pythons way of saying "if the previous conditions were not true, then do this condition"."""
 

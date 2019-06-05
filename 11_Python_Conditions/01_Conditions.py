@@ -1,4 +1,12 @@
 
+
+"""
+
+Author: Kagaya john 
+Tutorial 10 : Conditions
+
+"""
+
 """
 Python Conditions
 Python Conditions and If statements

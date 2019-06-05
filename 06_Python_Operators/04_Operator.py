@@ -1,5 +1,10 @@
 
+"""
 
+Author: Kagaya john 
+Tutorial 6 : Operators
+
+"""
 """
 Python Logical Operators
 Logical operators are used to combine conditional statements:
