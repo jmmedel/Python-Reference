@@ -14,6 +14,5 @@ cars.pop(1)
 
 print(cars)
 
-cars.remove("Volvo")
-print(cars)
+
 
