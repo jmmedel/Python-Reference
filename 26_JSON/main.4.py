@@ -1,5 +1,12 @@
 """
 
+Author: Kagaya john 
+Tutorial 26 :  JSON
+
+"""
+
+"""
+
 When you convert from Python to JSON, Python objects are converted into the JSON (JavaScript) equivalent:
 
 Python	JSON

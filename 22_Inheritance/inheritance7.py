@@ -1,4 +1,9 @@
+"""
 
+Author: Kagaya john 
+Tutorial 22 :   Inheritance
+
+"""
 
 """
 Add Methods

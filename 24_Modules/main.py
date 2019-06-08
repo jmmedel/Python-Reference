@@ -1,7 +1,7 @@
 """
 
 Author: Kagaya john 
-Tutorial 1 :   
+Tutorial 24 : Modules  
 
 """
 
